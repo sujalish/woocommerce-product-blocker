@@ -1,0 +1,58 @@
+.wpb-admin-page {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.wpb-admin-page h2 {
+    color: #333;
+}
+
+.wpb-admin-page form {
+    margin-top: 20px;
+}
+
+.wpb-admin-page input[type="text"],
+.wpb-admin-page select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.wpb-admin-page input[type="submit"],
+.wpb-admin-page button {
+    background-color: #007cba;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 2px 0 darkblue;
+    margin-top: 10px;
+}
+
+.wpb-admin-page input[type="submit"]:hover,
+.wpb-admin-page button:hover {
+    background-color: #005fa3;
+}
+
+.wpb-blocked-product {
+    margin-bottom: 10px;
+}
+
+.wpb-remove-blocked-product {
+    background-color: #d9534f;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.wpb-remove-blocked-product:hover {
+    background-color: #c9302c;
+}
